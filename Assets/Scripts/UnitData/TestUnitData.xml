@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Units>
+  <Unit>
+    <Team>One</Team>
+    <Name>Test Unit 1</Name>
+    <TroopCount>120</TroopCount>
+    <CasualtyRates type="array">
+      <value>5</value>
+      <value>10</value>
+      <value>15</value>
+      <value>20</value>
+      <value>25</value>
+    </CasualtyRates>
+    <UnitType>Sword</UnitType>
+    <MeleeRole>Heavy</MeleeRole>
+    <RangedArmour>None</RangedArmour>
+    <Training>High</Training>
+  </Unit>
+  <Unit>
+    <Team>One</Team>
+    <Name>Test Unit 2</Name>
+    <TroopCount>120</TroopCount>
+    <CasualtyRates type="array">
+      <value>5</value>
+      <value>8</value>
+      <value>12</value>
+      <value>20</value>
+      <value>24</value>
+    </CasualtyRates>
+    <UnitType>Axe</UnitType>
+    <MeleeRole>Medium</MeleeRole>
+    <RangedArmour>None</RangedArmour>
+    <Training>Decent</Training>
+  </Unit>
+  <Unit>
+    <Team>One</Team>
+    <Name>Test Unit 3</Name>
+    <TroopCount>120</TroopCount>
+    <CasualtyRates type="array">
+      <value>5</value>
+      <value>10</value>
+      <value>15</value>
+      <value>20</value>
+      <value>25</value>
+    </CasualtyRates>
+    <UnitType>Spear</UnitType>
+    <MeleeRole>Heavy</MeleeRole>
+    <RangedArmour>None</RangedArmour>
+    <Training>High</Training>
+  </Unit>
+  <Unit>
+    <Team>One</Team>
+    <Name>Test Unit 4</Name>
+    <TroopCount>120</TroopCount>
+    <CasualtyRates type="array">
+      <value>10</value>
+      <value>12</value>
+      <value>15</value>
+      <value>25</value>
+      <value>30</value>
+    </CasualtyRates>
+    <UnitType>Bow</UnitType>
+    <MeleeRole>None</MeleeRole>
+    <RangedArmour>Medium</RangedArmour>
+    <Training>High</Training>
+  </Unit>
+</Units>
+
